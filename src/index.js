@@ -86,7 +86,7 @@ function decode(expr) {
         const partMorse = MORSE_TABLE[part];
         stringEmpty = stringEmpty + partMorse;
 
-        console.log(stringEmpty);
+        // console.log(stringEmpty);
 
         
     };
